@@ -27,3 +27,6 @@ The app expects `products_campaign_sales.csv` in the same folder.
 - Methodology
 
 The app trains the documented tuned Extra Trees model automatically when it starts, so no separate model file is required.
+
+
+streamlit - https://predictionappuctadcampaignperformance-5mjzwamqjfjlzhdf8atviu.streamlit.app/
